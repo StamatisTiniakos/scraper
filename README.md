@@ -49,3 +49,5 @@ Future Work:
 *Error Handling
 
 *Explore whether the use of scrapy vs selenium could improve performance.
+
+*Export data to csv
