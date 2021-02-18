@@ -37,4 +37,9 @@ Steps 1) & 2) from above. In your code:
 4) Scrape a list of listings:                            result = scraper.scrape_list(["33571268","33090114","40558945"]) #result is a list that contains dictionaries
 
 
-Work in Progress: Unit Testing, Error Handling, Explore whether use of scrapy vs selenium to improve performance.
+
+Future Work: 
+
+*Unit Testing
+*Error Handling
+*Explore whether the use of scrapy vs selenium could improve performance.
