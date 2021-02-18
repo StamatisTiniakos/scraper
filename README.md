@@ -12,6 +12,8 @@ The following data is extracted:
 
 *List of amenities.
 
+
+
 Clone and Install: 
 
 1) Clone the project
