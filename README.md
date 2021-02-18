@@ -41,5 +41,7 @@ Steps 1) & 2) from above. In your code:
 Future Work: 
 
 *Unit Testing
+
 *Error Handling
+
 *Explore whether the use of scrapy vs selenium could improve performance.
