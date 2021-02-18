@@ -3,9 +3,13 @@ Python library for scraping Airbnb listings using the property listing id.
 The following data is extracted: 
 
 *Number of bathrooms
+
 *number of bedrooms
+
 *Property type
+
 *Property name
+
 *List of amenities.
 
 Clone and Install: 
@@ -25,8 +29,6 @@ To use as a tool:
 
 
 To use as a library:
-
-Steps 1) & 2) from above. In your code:
 
 1) Import the module:                      from bnbscraper.BnbScraper import BnbScraper
 
